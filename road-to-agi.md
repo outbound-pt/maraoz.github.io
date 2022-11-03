@@ -56,7 +56,7 @@ https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists
 
 
 ### Social intelligence
-✅ 10,000+ people have ongoing relationships (weekly interactions) with [chat bots](http://www.nytimes.com/2015/08/04/science/for-sympathetic-ear-more-chinese-turn-to-smartphone-program.html) for entertainment.  
+✅ 10,000+ people have ongoing relationships (weekly interactions) with [chat bots](http://www.nytimes.com/2015/08/04/science/for-sympathetic-ear-more-chinese-turn-to-smartphone-program.html) for entertainment. [<a href="https://replika.com">done</a>thanks to products like Replika and character.ai] <br />
 ⬜ AI or robot can train a random untrained dog to "sit".  
 ⬜ AI or robot can do a 5-minute standup comedy show in front of people and make some of them laugh several times.  
 ⬜ Robot can copy a new physical movement by copying a human (eg: learn to break an egg by watching a human do it)  
