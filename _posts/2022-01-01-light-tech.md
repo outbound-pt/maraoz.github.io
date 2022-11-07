@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Light Tech: how to stay sane around computers."
+title:  "Light Tech: how to stay sane using computers."
 draft: true
+gpt3: true
 ---
 <figure>
   <figcaption style="text-align: left">
@@ -10,7 +11,7 @@ draft: true
 </figure>
 <img class="cover" src="/img/light-tech/cover.jpg">
 
-<span class="first-letter">A</span>s some of you may know, I've been on a sabbatical for the past ~2 years. Among other things, this gave me perspective to think about my relationship with tech. I had most often used the mental model of "how can I use all these amazing tools to enhance my life and work", but I now shifted to something more like "how can I prevent tech from driving me nuts". 
+As some of you may know, I've been on a sabbatical for the past ~2 years. Among other things, this gave me perspective to think about my relationship with tech. I had most often used the mental model of "how can I use all these amazing tools to enhance my life and work", but I now shifted to something more like "how can I prevent tech from driving me nuts". 
 
 Techniques:
 - disable all notifications
