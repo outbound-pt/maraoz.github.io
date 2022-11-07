@@ -109,6 +109,8 @@ https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists
 ⬜ AI that can convince other humans or AIs of their new ideas.  
 ⬜ AI that can coordinate huge amounts of (maybe all?) humans. (AGI as new world order) 
 
+### Cross-Domain Intelligence
+⬜ Robot that can shoe a horse, removing the animal from stall, removing old shoes, preparing hooves and shoeing it whilst keeping the animal calm (Emotional/Empathic and Physical intelligence).
 
 Have improvement ideas for the roadmap? Solved one of the challenges?  
 [Suggest a change on GitHub!](https://github.com/maraoz/maraoz.github.io/edit/master/road-to-agi.md)  
