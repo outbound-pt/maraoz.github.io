@@ -6,7 +6,7 @@ gpt3: true
 ---
 <figure>
   <figcaption style="text-align: left">
-  Summary: I share the techniques I use to protect my mind from the internet. Part 2 of a 3 post series on good practices for tech usage.
+  Summary: I share techniques I use to protect my mind from the internet. Part 2 of a 3 post series on good practices for tech usage.
   </figcaption>
 </figure>
 <img class="cover" src="/img/light-tech/cover.jpg">
